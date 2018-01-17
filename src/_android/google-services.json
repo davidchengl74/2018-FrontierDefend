@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "686378575453",
+    "firebase_url": "https://frontier-defense-24680681.firebaseio.com",
+    "project_id": "frontier-defense-24680681",
+    "storage_bucket": "frontier-defense-24680681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686378575453:android:6da61905f1c4bb58",
+        "android_client_info": {
+          "package_name": "pine.game.FrontierDefense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686378575453-j6kuqanrff808cgkpiq2rr8gf7dcn4mh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "686378575453-gvk9hbbqgvk5do4cluf4vqjulm8omonc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pine.game.FrontierDefense",
+            "certificate_hash": "1af8aff3ba6f95ebd5b6c2a23ff1ec3b2af271be"
+          }
+        },
+        {
+          "client_id": "686378575453-k4k37ma5hradghd85el79khov3s4bf4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pine.game.FrontierDefense",
+            "certificate_hash": "912f6528695415543d7f59220e8e8b4611ab4d87"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr0oS8obI5FVLqtMLnUe7cxVcxEKyo-io"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686378575453-qff2qdnbrnifh8a1rlpnik8i452dbcc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TapCastleDefense.PineEntertainment.Com",
+                "app_store_id": "1040462294"
+              }
+            },
+            {
+              "client_id": "686378575453-j6kuqanrff808cgkpiq2rr8gf7dcn4mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

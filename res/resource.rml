@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManager>
+  <FileInfo Version="1.1" />
+  <GFX>
+    <SupportVersions>
+      <Version Name="750_1334" Width="750" Height="1334" MainVersion="1" />
+      <Version Name="768_1024" Width="768" Height="1024" />
+      <Version Name="640_960" Width="640" Height="960" />
+    </SupportVersions>
+    <Packages>
+      <Package Name="font" />
+      <Package Name="hud" />
+      <Package Name="background" />
+      <Package Name="bg" />
+      <Package Name="character" />
+      <Package Name="effect" />
+      <Package Name="building" />
+      <Package Name="enemy" />
+      <Package Name="advert" />
+    </Packages>
+    <Items>
+      <Item Name="background_01" />
+      <Item Name="background_02" />
+      <Item Name="background_03" />
+      <Item Name="background_04" />
+      <Item Name="background_05" />
+      <Item Name="background_06" />
+      <Item Name="background_07" />
+      <Item Name="background_08" />
+      <Item Name="background_09" />
+      <Item Name="background_10" />
+      <Item Name="background_dark_01" />
+      <Item Name="background_dark_02" />
+      <Item Name="background_dark_03" />
+      <Item Name="background_dark_04" />
+      <Item Name="background_dark_05" />
+      <Item Name="background_dark_06" />
+      <Item Name="background_dark_07" />
+      <Item Name="background_dark_08" />
+      <Item Name="background_dark_09" />
+      <Item Name="background_dark_10" />
+      <Item Name="bg_underground_01" />
+      <Item Name="bg_underground_02" />
+      <Item Name="bg_underground_03" />
+      <Item Name="bg_underground_04" />
+      <Item Name="bg_underground_05" />
+      <Item Name="bg_underground_06" />
+      <Item Name="bg_underground_07" />
+      <Item Name="bg_underground_08" />
+      <Item Name="bg_underground_09" />
+      <Item Name="bg_underground_10" />
+      <Item Name="bg_underground_11" />
+      <Item Name="bg_underground_12" />
+      <Item Name="bg_underground_13" />
+      <Item Name="bg_underground_14" />
+      <Item Name="bg_underground_15" />
+      <Item Name="background_11" />
+      <Item Name="background_12" />
+      <Item Name="background_13" />
+      <Item Name="background_14" />
+      <Item Name="background_15" />
+      <Item Name="background_dark_11" />
+      <Item Name="background_dark_15" />
+      <Item Name="bg_loading" />
+      <Item Name="hud_castle_01" />
+      <Item Name="hud_mainmenu" />
+      <Item Name="hud_castle_00" />
+      <Item Name="hud_castle_02" />
+      <Item Name="hud_castle_03" />
+      <Item Name="hud_castle_04" />
+      <Item Name="hud_castle_05" />
+      <Item Name="hud_castle_06" />
+      <Item Name="hud_castle_07" />
+      <Item Name="hud_castle_08" />
+      <Item Name="hud_castle_09" />
+      <Item Name="hud_castle_10" />
+      <Item Name="hud_item" />
+      <Item Name="hud_rateus" />
+      <Item Name="hud_chests_01" />
+      <Item Name="hud_chests" />
+      <Item Name="hud_effect_chest_01" />
+      <Item Name="hud_gemshop" />
+      <Item Name="hud_tutorial_01" />
+      <Item Name="hud_tutorial" />
+      <Item Name="hud_quest_icon" />
+      <Item Name="hud_lucky_wheel_01" />
+      <Item Name="hud_splash_screen_01" />
+      <Item Name="hud_promo_pinegame" />
+      <Item Name="hud_about" />
+      <Item Name="icon_relic" />
+      <Item Name="hud_daily_reward" />
+      <Item Name="fairy_01" />
+      <Item Name="hero_swordsman_01" />
+      <Item Name="hero_archer_01" />
+      <Item Name="hero_mage_01" />
+      <Item Name="hero_magelighting_01" />
+      <Item Name="hero_wolfgirl_01" />
+      <Item Name="hero_beastmaster_01" />
+      <Item Name="hero_achemist_01" />
+      <Item Name="hero_cat_ninja_01" />
+      <Item Name="hero_robot_01" />
+      <Item Name="hero_santa_01" />
+      <Item Name="monster_orc_01" />
+      <Item Name="monster_orc_02" />
+      <Item Name="monster_orc_03" />
+      <Item Name="monster_wolf_01" />
+      <Item Name="monster_wolf_02" />
+      <Item Name="monster_wolf_03" />
+      <Item Name="monster_thief_01" />
+      <Item Name="monster_skeleton_01" />
+      <Item Name="monster_skeleton_02" />
+      <Item Name="monster_orc_05" />
+      <Item Name="monster_orc_04" />
+      <Item Name="monster_boss_LordJaraxxus" />
+      <Item Name="monster_orc_06" />
+      <Item Name="monster_shaman" />
+      <Item Name="monster_spiders_01" />
+      <Item Name="monster_spiders_02" />
+      <Item Name="monster_spiders_03" />
+      <Item Name="monster_spiders_04" />
+      <Item Name="monster_techies" />
+      <Item Name="monster_flying" />
+      <Item Name="monster_skeleton_03" />
+      <Item Name="monster_skeleton_04" />
+      <Item Name="monster_skeleton_05" />
+      <Item Name="monster_skeleton_06" />
+      <Item Name="monster_orc_magi" />
+      <Item Name="monster_shaman_01" />
+      <Item Name="monster_flying_01" />
+      <Item Name="monster_boss_pirate_king" />
+      <Item Name="monster_gargoyle" />
+      <Item Name="monster_boss_balrog" />
+      <Item Name="monster_catapult" />
+      <Item Name="monster_imp" />
+      <Item Name="monster_lava_01" />
+      <Item Name="monster_lava_02" />
+      <Item Name="monster_Rhino" />
+      <Item Name="monster_boss_razor" />
+      <Item Name="monster_boss_skeleton" />
+      <Item Name="effect_die" />
+      <Item Name="effect_hit" />
+      <Item Name="effect_crown_01" />
+      <Item Name="effect_logo" />
+      <Item Name="effect_defeat_castle_02" />
+      <Item Name="effect_levelup_castle_01" />
+      <Item Name="effect_defeat_castle_01" />
+      <Item Name="effect_victory_01" />
+      <Item Name="effect_stun_01" />
+      <Item Name="effect_skill_archer" />
+      <Item Name="effect_skill_swordsman" />
+      <Item Name="effect_skill_swordman_01" />
+      <Item Name="effect_skill_swordman_02" />
+      <Item Name="effect_skill_mage" />
+      <Item Name="effect_skill_magelighting_01" />
+      <Item Name="effect_skill_wolfgirl_01" />
+      <Item Name="effect_skill_beastmaster_01" />
+      <Item Name="effect_skill_cat_ninja_01" />
+      <Item Name="effect_skill_achemist_01" />
+      <Item Name="effect_skill_robot_01" />
+      <Item Name="effect_santa_01" />
+      <Item Name="effect_skill_wolfgirl_02" />
+      <Item Name="effect_ice" />
+      <Item Name="font_loading_percent" />
+      <Item Name="font_battle" />
+      <Item Name="font_coin_gem" />
+      <Item Name="font_wave" />
+      <Item Name="font_wave_white" />
+      <Item Name="font_wave_yellow" />
+      <Item Name="font_criticaldame" />
+      <Item Name="font_hitdame" />
+      <Item Name="font_hitdame_castle" />
+      <Item Name="font_heroname" />
+      <Item Name="font_hud" />
+      <Item Name="font_iap" />
+      <Item Name="font_levelup" />
+      <Item Name="font_shopcoin" />
+      <Item Name="font_shopcoinred" />
+      <Item Name="font_skill" />
+      <Item Name="font_atk" />
+      <Item Name="font_select_your_rewards" />
+      <Item Name="font_plus_dame" />
+      <Item Name="font_tutorial" />
+      <Item Name="font_lucky_wheel" />
+      <Item Name="font_discount" />
+      <Item Name="font_loading" />
+      <Item Name="font_relic" />
+      <Item Name="castle_lv1_01" />
+      <Item Name="castle_lv2_01" />
+      <Item Name="castle_lv3_01" />
+      <Item Name="castle_lv4_01" />
+      <Item Name="castle_lv5_01" />
+      <Item Name="castle_lv6_01" />
+      <Item Name="castle_lv7_01" />
+      <Item Name="castle_lv8_01" />
+      <Item Name="castle_lv9_01" />
+      <Item Name="castle_lv10_01" />
+      <Item Name="font_advert" />
+      <Item Name="pine_advert" />
+      <Item Name="hud_data_menu_prestige" />
+      <Item Name="font_lv_god_blessed_i6" />
+      <Item Name="font_prestige_number_i6" />
+      <Item Name="font_spin_gold" />
+      <Item Name="font_spin_green" />
+      <Item Name="font_topebox_ads" />
+      <Item Name="hud_topebox_ads" />
+    </Items>
+    <VersionItems>
+      <VersionItem Version="750_1334">
+        <Item Item="background_01" Path="background_01_i6.bpine" Package="background" />
+        <Item Item="monster_orc_01" Path="monster_orc_01.bpine" Package="enemy" />
+        <Item Item="font_loading_percent" Path="font_loading_percent_i6.bpine" Package="font" />
+        <Item Item="hud_castle_01" Path="hud_castle_01_i6.bpine" Package="hud" />
+        <Item Item="hero_swordsman_01" Path="hero_swordsman_01.bpine" Package="character" />
+        <Item Item="hero_archer_01" Path="hero_archer_01.bpine" Package="character" />
+        <Item Item="monster_orc_02" Path="monster_orc_02.bpine" Package="enemy" />
+        <Item Item="monster_orc_03" Path="monster_orc_03.bpine" Package="enemy" />
+        <Item Item="effect_die" Path="effect_die_i6.bpine" Package="effect" />
+        <Item Item="font_battle" Path="font_battle_i6.bpine" Package="font" />
+        <Item Item="font_coin_gem" Path="font_coin_gem_i6.bpine" Package="font" />
+        <Item Item="font_wave" Path="font_wave_i6.bpine" Package="font" />
+        <Item Item="font_wave_white" Path="font_wave_white_i6.bpine" Package="font" />
+        <Item Item="font_wave_yellow" Path="font_wave_yellow_i6.bpine" Package="font" />
+        <Item Item="hud_mainmenu" Path="hud_mainmenu_i6.bpine" Package="hud" />
+        <Item Item="bg_underground_01" Path="bg_underground_01.bpine" Package="background" />
+        <Item Item="castle_lv1_01" Path="castle_lv1_01_i6.bpine" Package="building" />
+        <Item Item="font_criticaldame" Path="font_criticaldame_i6.bpine" Package="font" />
+        <Item Item="font_hitdame" Path="font_hitdame_i6.bpine" Package="font" />
+        <Item Item="effect_skill_archer" Path="effect_skill_archer_i6.bpine" Package="effect" />
+        <Item Item="effect_skill_swordsman" Path="effect_skill_swordsman_i6.bpine" Package="effect" />
+        <Item Item="monster_wolf_01" Path="monster_wolf_01.bpine" Package="enemy" />
+        <Item Item="monster_wolf_02" Path="monster_wolf_02.bpine" Package="enemy" />
+        <Item Item="monster_wolf_03" Path="monster_wolf_03.bpine" Package="enemy" />
+        <Item Item="font_hitdame_castle" Path="font_hitdame_castle_i6.bpine" Package="font" />
+        <Item Item="monster_thief_01" Path="monster_thief_01.bpine" Package="enemy" />
+        <Item Item="monster_skeleton_01" Path="monster_skeleton_01.bpine" Package="enemy" />
+        <Item Item="monster_skeleton_02" Path="monster_skeleton_02.bpine" Package="enemy" />
+        <Item Item="font_heroname" Path="font_heroname_i6.bpine" Package="font" />
+        <Item Item="font_hud" Path="font_hud_i6.bpine" Package="font" />
+        <Item Item="font_iap" Path="font_iap_i6.bpine" Package="font" />
+        <Item Item="font_levelup" Path="font_levelup_i6.bpine" Package="font" />
+        <Item Item="font_shopcoin" Path="font_shopcoin_i6.bpine" Package="font" />
+        <Item Item="font_shopcoinred" Path="font_shopcoinred_i6.bpine" Package="font" />
+        <Item Item="font_skill" Path="font_skill_i6.bpine" Package="font" />
+        <Item Item="font_atk" Path="font_atk_i6.bpine" Package="font" />
+        <Item Item="monster_orc_05" Path="monster_orc_05.bpine" Package="enemy" />
+        <Item Item="monster_orc_04" Path="monster_orc_04.bpine" Package="enemy" />
+        <Item Item="effect_hit" Path="effect_hit_i6.bpine" Package="effect" />
+        <Item Item="monster_boss_LordJaraxxus" Path="monster_boss_LordJaraxxus.bpine" Package="enemy" />
+        <Item Item="monster_orc_06" Path="monster_orc_06.bpine" Package="enemy" />
+        <Item Item="hud_castle_00" Path="hud_castle_00_i6.bpine" Package="hud" />
+        <Item Item="hud_castle_02" Path="hud_castle_02_i6.bpine" Package="hud" />
+        <Item Item="hud_castle_03" Path="hud_castle_03_i6.bpine" Package="hud" />
+        <Item Item="hud_castle_04" Path="hud_castle_04_i6.bpine" Package="hud" />
+        <Item Item="castle_lv2_01" Path="castle_lv2_01_i6.bpine" Package="building" />
+        <Item Item="castle_lv3_01" Path="castle_lv3_01_i6.bpine" Package="building" />
+        <Item Item="castle_lv4_01" Path="castle_lv4_01_i6.bpine" Package="building" />
+        <Item Item="effect_skill_swordman_01" Path="effect_skill_swordman_01_i6.bpine" Package="effect" />
+        <Item Item="effect_skill_swordman_02" Path="effect_skill_swordman_02_i6.bpine" Package="effect" />
+        <Item Item="monster_shaman" Path="monster_shaman.bpine" Package="enemy" />
+        <Item Item="monster_spiders_01" Path="monster_spiders_01.bpine" Package="enemy" />
+        <Item Item="monster_spiders_02" Path="monster_spiders_02.bpine" Package="enemy" />
+        <Item Item="monster_spiders_03" Path="monster_spiders_03.bpine" Package="enemy" />
+        <Item Item="monster_spiders_04" Path="monster_spiders_04.bpine" Package="enemy" />
+        <Item Item="hero_mage_01" Path="hero_mage_01.bpine" Package="character" />
+        <Item Item="effect_skill_mage" Path="effect_skill_mage_i6.bpine" Package="effect" />
+        <Item Item="castle_lv5_01" Path="castle_lv5_01_i6.bpine" Package="building" />
+        <Item Item="castle_lv6_01" Path="castle_lv6_01_i6.bpine" Package="building" />
+        <Item Item="hud_castle_06" Path="hud_castle_05_i6.bpine" Package="hud" />
+        <Item Item="hud_castle_05" Path="hud_castle_05_i6.bpine" Package="hud" />
+        <Item Item="background_02" Path="background_02_i6.bpine" Package="background" />
+        <Item Item="background_03" Path="background_03_i6.bpine" Package="background" />
+        <Item Item="background_04" Path="background_04_i6.bpine" Package="background" />
+        <Item Item="background_05" Path="background_05_i6.bpine" Package="background" />
+        <Item Item="background_06" Path="background_06_i6.bpine" Package="background" />
+        <Item Item="background_07" Path="background_07_i6.bpine" Package="background" />
+        <Item Item="background_08" Path="background_08_i6.bpine" Package="background" />
+        <Item Item="monster_techies" Path="monster_techies.bpine" Package="enemy" />
+        <Item Item="bg_underground_02" Path="bg_underground_02.bpine" Package="background" />
+        <Item Item="bg_underground_03" Path="bg_underground_03.bpine" Package="background" />
+        <Item Item="bg_underground_04" Path="bg_underground_04.bpine" Package="background" />
+        <Item Item="bg_underground_05" Path="bg_underground_05.bpine" Package="background" />
+        <Item Item="bg_underground_06" Path="bg_underground_06.bpine" Package="background" />
+        <Item Item="bg_underground_07" Path="bg_underground_07.bpine" Package="background" />
+        <Item Item="bg_underground_08" Path="bg_underground_08.bpine" Package="background" />
+        <Item Item="background_dark_01" Path="background_dark_01_i6.bpine" Package="background" />
+        <Item Item="background_dark_02" Path="background_dark_02_i6.bpine" Package="background" />
+        <Item Item="background_dark_03" Path="background_dark_03_i6.bpine" Package="background" />
+        <Item Item="background_dark_04" Path="background_dark_04_i6.bpine" Package="background" />
+        <Item Item="background_dark_05" Path="background_dark_05_i6.bpine" Package="background" />
+        <Item Item="background_dark_06" Path="background_dark_06_i6.bpine" Package="background" />
+        <Item Item="background_dark_07" Path="background_dark_07_i6.bpine" Package="background" />
+        <Item Item="background_dark_08" Path="background_dark_08_i6.bpine" Package="background" />
+        <Item Item="background_dark_09" Path="background_dark_09_i6.bpine" Package="background" />
+        <Item Item="background_dark_10" Path="background_dark_10_i6.bpine" Package="background" />
+        <Item Item="bg_underground_09" Path="bg_underground_09.bpine" Package="background" />
+        <Item Item="bg_underground_10" Path="bg_underground_10.bpine" Package="background" />
+        <Item Item="background_09" Path="background_09_i6.bpine" Package="background" />
+        <Item Item="background_10" Path="background_10_i6.bpine" Package="background" />
+        <Item Item="hud_item" Path="hud_item_i6.bpine" Package="hud" />
+        <Item Item="hud_rateus" Path="hud_rateus_invitation_i6.bpine" Package="hud" />
+        <Item Item="hud_chests_01" Path="hud_chests_01_i6.bpine" Package="hud" />
+        <Item Item="hud_chests" Path="hud_chests_i6.bpine" Package="hud" />
+        <Item Item="hud_effect_chest_01" Path="hud_effect_chest_01_i6.bpine" Package="hud" />
+        <Item Item="hero_magelighting_01" Path="hero_magelighting_01.bpine" Package="character" />
+        <Item Item="hero_wolfgirl_01" Path="hero_wolfgirl_01.bpine" Package="character" />
+        <Item Item="effect_skill_magelighting_01" Path="effect_skill_magelighting_01.bpine" Package="effect" />
+        <Item Item="effect_skill_wolfgirl_01" Path="effect_skill_wolfgirl_01_i6.bpine" Package="effect" />
+        <Item Item="monster_flying" Path="monster_flying.bpine" Package="enemy" />
+        <Item Item="monster_skeleton_03" Path="monster_skeleton_03.bpine" Package="enemy" />
+        <Item Item="monster_skeleton_04" Path="monster_skeleton_04.bpine" Package="enemy" />
+        <Item Item="monster_skeleton_05" Path="monster_skeleton_05.bpine" Package="enemy" />
+        <Item Item="monster_skeleton_06" Path="monster_skeleton_06.bpine" Package="enemy" />
+        <Item Item="monster_orc_magi" Path="monster_orc_magi.bpine" Package="enemy" />
+        <Item Item="effect_crown_01" Path="effect_crown_01_i6.bpine" Package="effect" />
+        <Item Item="hud_gemshop" Path="hud_gemshop_i6.bpine" Package="hud" />
+        <Item Item="font_select_your_rewards" Path="font_select_your_rewards_i6.bpine" Package="font" />
+        <Item Item="monster_shaman_01" Path="monster_shaman_01.bpine" Package="enemy" />
+        <Item Item="monster_flying_01" Path="monster_flying_01.bpine" Package="enemy" />
+        <Item Item="monster_boss_pirate_king" Path="monster_boss_pirate_king.bpine" Package="enemy" />
+        <Item Item="font_plus_dame" Path="font_plus_dame_i6.bpine" Package="font" />
+        <Item Item="castle_lv7_01" Path="castle_lv7_01_i6.bpine" Package="building" />
+        <Item Item="castle_lv8_01" Path="castle_lv8_01_i6.bpine" Package="building" />
+        <Item Item="castle_lv9_01" Path="castle_lv9_01_i6.bpine" Package="building" />
+        <Item Item="hud_castle_07" Path="hud_castle_07_i6.bpine" Package="hud" />
+        <Item Item="hud_castle_08" Path="hud_castle_08_i6.bpine" Package="hud" />
+        <Item Item="hud_castle_09" Path="hud_castle_09_i6.bpine" Package="hud" />
+        <Item Item="fairy_01" Path="fairy_01_i6.bpine" Package="character" />
+        <Item Item="hud_tutorial_01" Path="hud_tutorial_01_i6.bpine" Package="hud" />
+        <Item Item="hud_tutorial" Path="hud_tutorial_i6.bpine" Package="hud" />
+        <Item Item="font_tutorial" Path="font_tutorial_i6.bpine" Package="font" />
+        <Item Item="hud_quest_icon" Path="hud_quest_icon_i6.bpine" Package="hud" />
+        <Item Item="hud_lucky_wheel_01" Path="hud_lucky_wheel_01_i6.bpine" Package="hud" />
+        <Item Item="hud_splash_screen_01" Path="hud_splash_screen_01_i6.bpine" Package="hud" />
+        <Item Item="background_11" Path="background_11_i6.bpine" Package="background" />
+        <Item Item="background_12" Path="background_12_i6.bpine" Package="background" />
+        <Item Item="background_13" Path="background_13_i6.bpine" Package="background" />
+        <Item Item="background_14" Path="background_14_i6.bpine" Package="background" />
+        <Item Item="background_dark_11" Path="background_dark_11_i6.bpine" Package="background" />
+        <Item Item="bg_underground_11" Path="bg_underground_11.bpine" Package="background" />
+        <Item Item="bg_underground_12" Path="bg_underground_12.bpine" Package="background" />
+        <Item Item="bg_underground_13" Path="bg_underground_13.bpine" Package="background" />
+        <Item Item="bg_underground_14" Path="bg_underground_14.bpine" Package="background" />
+        <Item Item="font_lucky_wheel" Path="font_lucky_wheel_i6.bpine" Package="font" />
+        <Item Item="effect_defeat_castle_02" Path="effect_defeat_castle_02_i6.bpine" Package="effect" />
+        <Item Item="effect_levelup_castle_01" Path="effect_levelup_castle_01_i6.bpine" Package="effect" />
+        <Item Item="effect_logo" Path="effect_logo_i6.bpine" Package="effect" />
+        <Item Item="effect_defeat_castle_01" Path="effect_defeat_castle_01_i6.bpine" Package="effect" />
+        <Item Item="hero_beastmaster_01" Path="hero_beastmaster_01.bpine" Package="character" />
+        <Item Item="hero_achemist_01" Path="hero_achemist_01_i6.bpine" Package="character" />
+        <Item Item="hero_cat_ninja_01" Path="hero_cat_ninja_01_i6.bpine" Package="character" />
+        <Item Item="hero_robot_01" Path="hero_robot_01.bpine" Package="character" />
+        <Item Item="effect_skill_beastmaster_01" Path="effect_skill_beastmaster_01_i6.bpine" Package="effect" />
+        <Item Item="monster_gargoyle" Path="monster_gargoyle.bpine" Package="enemy" />
+        <Item Item="monster_boss_balrog" Path="monster_boss_balrog.bpine" Package="enemy" />
+        <Item Item="monster_catapult" Path="monster_catapult.bpine" Package="enemy" />
+        <Item Item="monster_imp" Path="monster_imp.bpine" Package="enemy" />
+        <Item Item="monster_lava_01" Path="monster_lava_01.bpine" Package="enemy" />
+        <Item Item="monster_lava_02" Path="monster_lava_02.bpine" Package="enemy" />
+        <Item Item="monster_Rhino" Path="monster_Rhino.bpine" Package="enemy" />
+        <Item Item="font_discount" Path="font_discount_i6.bpine" Package="font" />
+        <Item Item="font_loading" Path="font_loading_i6.bpine" Package="font" />
+        <Item Item="hud_about" Path="hud_about_i6.bpine" Package="hud" />
+        <Item Item="bg_loading" Path="bg_loading_i6.bpine" Package="background" />
+        <Item Item="monster_boss_razor" Path="monster_boss_razor.bpine" Package="enemy" />
+        <Item Item="monster_boss_skeleton" Path="monster_boss_skeleton.bpine" Package="enemy" />
+        <Item Item="effect_skill_cat_ninja_01" Path="effect_skill_cat_ninja_01_i6.bpine" Package="effect" />
+        <Item Item="effect_skill_achemist_01" Path="effect_skill_achemist_01_i6.bpine" Package="effect" />
+        <Item Item="effect_skill_robot_01" Path="effect_skill_robot_01_i6.bpine" Package="effect" />
+        <Item Item="icon_relic" Path="icon_relic_i6.bpine" Package="hud" />
+        <Item Item="effect_victory_01" Path="effect_victory_01_i6.bpine" Package="effect" />
+        <Item Item="font_relic" Path="font_relic_i6.bpine" Package="font" />
+        <Item Item="hero_santa_01" Path="hero_santa_01.bpine" Package="character" />
+        <Item Item="effect_santa_01" Path="effect_santa_01_i6.bpine" Package="effect" />
+        <Item Item="effect_stun_01" Path="effect_stun_01_i6.bpine" Package="effect" />
+        <Item Item="background_dark_15" Path="background_dark_15_i6.bpine" Package="background" />
+        <Item Item="bg_underground_15" Path="bg_underground_15.bpine" Package="background" />
+        <Item Item="background_15" Path="background_15_i6.bpine" Package="background" />
+        <Item Item="effect_ice" Path="effect_ice.bpine" Package="effect" />
+        <Item Item="font_advert" Path="font_advert.bpine" Package="advert" />
+        <Item Item="pine_advert" Path="pine_advert.bpine" Package="advert" />
+        <Item Item="effect_skill_wolfgirl_02" Path="effect_skill_wolfgirl_02_i6.bpine" Package="effect" />
+        <Item Item="hud_daily_reward" Path="hud_daily_reward.bpine" Package="hud" />
+        <Item Item="castle_lv10_01" Path="castle_lv10_01_i6.bpine" Package="building" />
+        <Item Item="hud_castle_10" Path="hud_castle_10_i6.bpine" Package="hud" />
+        <Item Item="hud_promo_pinegame" Path="hud_promo_pinegame.bpine" Package="hud" />
+        <Item Item="hud_data_menu_prestige" Path="hud_data_menu_prestige.bpine" Package="hud" />
+        <Item Item="font_lv_god_blessed_i6" Path="font_lv_god_blessed_i6.bpine" Package="font" />
+        <Item Item="font_prestige_number_i6" Path="font_prestige_number_i6.bpine" Package="font" />
+        <Item Item="font_spin_gold" Path="font_spin_gold_i6.bpine" Package="font" />
+        <Item Item="font_spin_green" Path="font_spin_green_i6.bpine" Package="font" />
+        <Item Item="font_topebox_ads" Path="font_topebox_ads_i6.bpine" Package="font" />
+        <Item Item="hud_topebox_ads" Path="hud_topebox_ads_i6.bpine" Package="hud" />
+      </VersionItem>
+      <VersionItem Version="768_1024" />
+      <VersionItem Version="640_960" />
+    </VersionItems>
+  </GFX>
+  <Sounds>
+    <Sound Name="bgm_battle_2" Path="bgm_battle_2.mp3" />
+    <Sound Name="sfx__skill_paladin_attack" Path="sfx__skill_paladin_attack.wav" />
+    <Sound Name="sfx_archer_attack" Path="sfx_archer_attack.wav" />
+    <Sound Name="sfx_auto_full" Path="sfx_auto_full.wav" />
+    <Sound Name="sfx_boss_die" Path="sfx_boss_die.wav" />
+    <Sound Name="sfx_button" Path="sfx_button.wav" />
+    <Sound Name="sfx_castle_levelup" Path="sfx_castle_levelup.wav" />
+    <Sound Name="sfx_coin_drop" Path="sfx_coin_drop.wav" />
+    <Sound Name="sfx_hero_levelup" Path="sfx_hero_levelup.wav" />
+    <Sound Name="sfx_magic_attack" Path="sfx_magic_attack.wav" />
+    <Sound Name="sfx_orc_damaged" Path="sfx_orc_damaged.wav" />
+    <Sound Name="sfx_purchase" Path="sfx_purchase.wav" />
+    <Sound Name="sfx_skill_cast" Path="sfx_skill_cast.wav" />
+    <Sound Name="sfx_skill_full" Path="sfx_skill_full.wav" />
+    <Sound Name="sfx_sword_attack" Path="sfx_sword_attack.wav" />
+    <Sound Name="sfx_collect_reward" Path="sfx_collect_reward.wav" />
+    <Sound Name="sfx_castle_damaged" Path="sfx_castle_damaged.wav" />
+    <Sound Name="sfx_chest_acquired" Path="sfx_chest_acquired.wav" />
+    <Sound Name="sfx_orc_die" Path="sfx_orc_die.wav" />
+    <Sound Name="sfx_tower_cannon" Path="sfx_tower_cannon.wav" />
+    <Sound Name="sfx_tower_cannon_explode" Path="sfx_tower_cannon_explode.wav" />
+    <Sound Name="sfx_tower_dragon" Path="sfx_tower_dragon.wav" />
+    <Sound Name="sfx_tower_electric" Path="sfx_tower_electric.wav" />
+    <Sound Name="sfx_tower_firemage" Path="sfx_tower_firemage.wav" />
+    <Sound Name="sfx_tower_frost" Path="sfx_tower_frost.wav" />
+    <Sound Name="sfx_tower_phoenix" Path="sfx_tower_phoenix.wav" />
+    <Sound Name="sfx_tower_slam" Path="sfx_tower_slam.wav" />
+    <Sound Name="sfx_tower_stwin" Path="sfx_tower_stwin.wav" />
+    <Sound Name="sfx_victory" Path="sfx_victory.wav" />
+    <Sound Name="sfx__electricmage_skill" Path="sfx__electricmage_skill.wav" />
+    <Sound Name="sfx_beastmaster_skill" Path="sfx_beastmaster_skill.wav" />
+    <Sound Name="sfx_bomb_suicide" Path="sfx_bomb_suicide.wav" />
+    <Sound Name="sfx_catninja_skill" Path="sfx_catninja_skill.wav" />
+    <Sound Name="sfx_defeat_die" Path="sfx_defeat_die.wav" />
+    <Sound Name="sfx_gago_fly" Path="sfx_gago_fly.wav" />
+    <Sound Name="sfx_gate_down" Path="sfx_gate_down.wav" />
+    <Sound Name="sfx_gate_prepare" Path="sfx_gate_prepare.wav" />
+    <Sound Name="sfx_globlin_looted" Path="sfx_globlin_looted.wav" />
+    <Sound Name="sfx_last_battle_completed" Path="sfx_last_battle_completed.wav" />
+    <Sound Name="sfx_mage_meteor" Path="sfx_mage_meteor.wav" />
+    <Sound Name="sfx_spider_spawn" Path="sfx_spider_spawn.wav" />
+    <Sound Name="sfx_treasure_open" Path="sfx_treasure_open.wav" />
+    <Sound Name="sfx_wheel" Path="sfx_wheel.wav" />
+    <Sound Name="sfx_archer_skill" Path="sfx_archer_skill.wav" />
+    <Sound Name="sfx_santa_kill_1" Path="sfx_santa_kill_1.wav" />
+    <Sound Name="sfx_santa_kill_2" Path="sfx_santa_kill_2.wav" />
+    <Sound Name="sfx_mia_skill" Path="sfx_mia_skill.wav" />
+    <Sound Name="sfx_robo_skill" Path="sfx_robo_skill.wav" />
+    <Sound Name="sfx_swordman_skill" Path="sfx_swordman_skill.wav" />
+    <Sound Name="sfx_tower_chimera" Path="sfx_tower_chimera.wav" />
+    <Sound Name="sfx_poision_skill" Path="sfx_poision_skill.wav" />
+  </Sounds>
+  <ProjectSettings>
+    <ResourceManifestHeader><![CDATA[./../src/game/Define]]></ResourceManifestHeader>
+    <ResourceManifestCPP><![CDATA[./../src/game/GamePlay]]></ResourceManifestCPP>
+  </ProjectSettings>
+  <Targets>
+    <Target Name="Simulator" AddNoise="0" GroupSFX="1">
+      <ResourceDirectory><![CDATA[./../_tmpres]]></ResourceDirectory>
+      <OutputDirectory><![CDATA[./../bin/res]]></OutputDirectory>
+      <Versions>
+        <Version Name="750_1334" />
+        <Version Name="768_1024" />
+        <Version Name="640_960" />
+      </Versions>
+    </Target>
+    <Target Name="IOS" AddNoise="0" GroupSFX="1">
+      <ResourceDirectory><![CDATA[./../_tmpres]]></ResourceDirectory>
+      <OutputDirectory><![CDATA[./../bin/Res_IOS]]></OutputDirectory>
+      <Versions>
+        <Version Name="750_1334" />
+        <Version Name="768_1024" />
+        <Version Name="640_960" />
+      </Versions>
+    </Target>
+    <Target Name="Android" AddNoise="0" GroupSFX="1">
+      <ResourceDirectory><![CDATA[./../_tmpres]]></ResourceDirectory>
+      <OutputDirectory><![CDATA[./../bin/Res_android]]></OutputDirectory>
+      <Versions>
+        <Version Name="750_1334" />
+      </Versions>
+    </Target>
+  </Targets>
+</ResourceManager>

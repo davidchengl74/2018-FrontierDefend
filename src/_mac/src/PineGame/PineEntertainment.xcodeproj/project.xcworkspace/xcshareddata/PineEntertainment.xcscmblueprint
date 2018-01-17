@@ -1,0 +1,39 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BC0C3E0A4521B8D982A84851999CC082FE1457B5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "daad10c4-2564-4c46-ab91-f5ae399a4981++2716" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BC0C3E0A4521B8D982A84851999CC082FE1457B5" : 9223372036854775807,
+    "D66135EA31FF10A033824966BD5DFB083094EBF8" : 9223372036854775807,
+    "daad10c4-2564-4c46-ab91-f5ae399a4981++2716" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ED164EF7-3300-4673-8B8C-F7CE5929C5D6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BC0C3E0A4521B8D982A84851999CC082FE1457B5" : "FrontierDefense\/",
+    "D66135EA31FF10A033824966BD5DFB083094EBF8" : "FrontierDefense\/src\/game\/Lib\/PineEngine\/",
+    "daad10c4-2564-4c46-ab91-f5ae399a4981++2716" : "FrontierDefense\/src\/game\/mac_core\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PineEntertainment",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "src\/_mac\/src\/PineGame\/PineEntertainment.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.pine.local\/PineGames\/FrontierDefense.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC0C3E0A4521B8D982A84851999CC082FE1457B5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.pine.local\/PineEngine\/PineEngineBuild.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D66135EA31FF10A033824966BD5DFB083094EBF8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.100\/svn\/PineGames",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "daad10c4-2564-4c46-ab91-f5ae399a4981++2716"
+    }
+  ]
+}
